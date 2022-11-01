@@ -3,7 +3,7 @@
 **Soy Yenny**  ✨ desarrolladora web, diseñadora gráfico y artista plástica.  ✨ apasiona por tecnología y es por eso que estudiando mi carrera aprendí sobre desarrollo web, vi la oportunidad de crear nuevas metas, y avanzar profesionalmente, así que no dudé en aprovechar la oportunidad para aprender más. 
 He trabajado durante más de 5 años liderando proyectos de diseño audiovisual en industrias como retail y B.P.O. esto ahora me permite crear conceptos que reflejan las ideas de los clientes.
 
-Aquí hay algunas ideas para comenzar:
+Algo más sobre mí:
 
 - 🔭 Actualmente estoy trabajando en Laboratoria
 - 🌱 Actualmente estoy aprendiendo Dev Girl/Front End/JavaScript/HTML/CSS
